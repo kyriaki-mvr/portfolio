@@ -8,11 +8,9 @@
 
 ## Education
 - **Master’s in Web & Data Science**
-  - Aristotle University of Thessaloniki, Greece
-  - [Website](https://dws.csd.auth.gr/)
+  - Aristotle University of Thessaloniki, Greece, [Website](https://dws.csd.auth.gr/)
 - **Bachelor’s in Computer Science**
-  - Aristotle University of Thessaloniki, Greece
-  - [Website](https://www.csd.auth.gr/en/ )
+  - Aristotle University of Thessaloniki, Greece, [Website](https://www.csd.auth.gr/en/)
 
 ## Professional Experience
 
@@ -47,10 +45,10 @@
 - Machine Learning, Andrew NG, Stanford University, Coursera certificate, 2022
 - [Test Automation with Python, Headspin University](https://www.linkedin.com/learning/certificates/283894dcb50fd1241f9a59ae2bda9e3ad329fe5cc31c091f0b8a7a98fde11f94?trk=share_certificate) - LinkedIn Learning, 2022
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/certificates/2ec501fd0774dd4b476d3a2a86904042da2add10bb20d1c6e5e94e1e9da52d77) - LinkedIn Learning, 2022
-- [Using Python for automation (Web scraping with Beautiful Soup, automating web browsing with Selenium, automating with APIS, creating API requests, linking API calls), Madecraft & Sam Pettus](https://www.linkedin.com/learning/certificates/66724abfab70a4df54373aaee340327058dc14d7ff82fb146425ee12f10d7295) - LinkedIn Learning, 2022
+- [Using Python for automation, Madecraft & Sam Pettus](https://www.linkedin.com/learning/certificates/66724abfab70a4df54373aaee340327058dc14d7ff82fb146425ee12f10d7295) - LinkedIn Learning, 2022
 - [Docker for Developers](https://www.linkedin.com/learning/certificates/10649c5d18b65a3a5e4e9308d38373410b15c4414a28f14c375f9a05f0b10f27?trk=share_certificate) - LinkedIn Learning, 2022
 - [Git Essential Training](https://www.linkedin.com/learning/certificates/ab7bcddccd8757631df63de2f2985582468268854e4ef643564276fb97688bc8?trk=share_certificate) - LinkedIn Learning, 2022
-- [Leading and Motivating People](https://www.linkedin.com/learning/certificates/306cdd383f6e7d7914da898674e207091f42a4e205a8642bcf208691e312ac90?trk=share_certificate) - LinkedIn Learning, 2022
+- [Leading and Motivating People with Different Personalities](https://www.linkedin.com/learning/certificates/306cdd383f6e7d7914da898674e207091f42a4e205a8642bcf208691e312ac90?trk=share_certificate) - LinkedIn Learning, 2022
 
 ## Technical Skills
 - **Programming Languages:** Python, C, C++, Java, Scala
