@@ -19,7 +19,7 @@
   - Leading and managing a team focused on AI development.
   - Promoting a culture of innovation and collaboration.
   - Collaborating with Customer Success team for process alignment.
-  - Implementing efficient practices for data science and machine learning.
+  - Implementing efficient practices for Data Science and Machine Learning.
 - **Senior Data Scientist (11/2022 - 05/2023)**
   - Leading AI/ML technology development for water pipe failure prediction.
   - Leveraging AWS technologies for data optimization.
@@ -51,7 +51,7 @@
 - [Leading and Motivating People with Different Personalities](https://www.linkedin.com/learning/certificates/306cdd383f6e7d7914da898674e207091f42a4e205a8642bcf208691e312ac90?trk=share_certificate) - LinkedIn Learning, 2022
 
 ## Technical Skills
-- **Programming Languages:** Python, C, C++, Java, Scala
+- **Programming Languages:** Python, C, C++, Java, Scala, Bash scripting
 - **Cloud Services:** AWS (S3, EFS)
 - **Web Technologies:** Flask, Docker, Kubernetes, Ethereum-Solidity
 - **Databases:** NoSQL, MongoDB
