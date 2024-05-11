@@ -101,7 +101,7 @@ process.
 ## Certifications
 - [DevOps with AWS](https://www.linkedin.com/learning/certificates/9930c8bc240596b47bb6d9c31c1febf6cfc32a0ece37cf28339af9a769520b5b?trk=share_certificate) - LinkedIn Learning, 2023
 - [How to Research and Write Using Generative AI Tools](https://www.linkedin.com/learning/certificates/01c220117d3a5ae3aec30886e6f171ccc938d313ddb071ef2fd6fa68bd4e3604) - LinkedIn Learning, 2023
-- Machine Learning, Andrew NG, Stanford University, Coursera certificate, 2022
+- [Machine Learning, Stanford University](https://www.coursera.org/account/accomplishments/verify/HH2EN5JTX9MK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - Coursera certificate, 2024
 - [Test Automation with Python, Headspin University](https://www.linkedin.com/learning/certificates/283894dcb50fd1241f9a59ae2bda9e3ad329fe5cc31c091f0b8a7a98fde11f94?trk=share_certificate) - LinkedIn Learning, 2022
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/certificates/2ec501fd0774dd4b476d3a2a86904042da2add10bb20d1c6e5e94e1e9da52d77) - LinkedIn Learning, 2022
 - [Using Python for automation, Madecraft & Sam Pettus](https://www.linkedin.com/learning/certificates/66724abfab70a4df54373aaee340327058dc14d7ff82fb146425ee12f10d7295) - LinkedIn Learning, 2022
