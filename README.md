@@ -78,6 +78,10 @@ process.
 - **Office Assistant / Technical Support**
   - Supporting the technical laboratories of the University
 
+## PYPI.ORG
+- strip-notebook-metadata:
+  https://pypi.org/project/strip-notebook-metadata/
+
 ## Technical Skills
 - **Programming Languages:** Python, Bash scripting
 - **Cloud Services:** AWS, S3, EFS,
