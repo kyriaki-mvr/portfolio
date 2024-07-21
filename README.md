@@ -23,7 +23,8 @@ process.
   - Overseeing the end-to-end execution of data science projects
   - Offering strategic direction, valuable guidance, and personalized
     mentorship to foster the growth and development of the data
-    science team, ensuring their professional advancement
+    science team (7-8 members), ensuring their professional
+    advancement
   - Collaborating with the Customer Success team to ensure
     alignment on day-to-day processes
   - Identifying the most efficient practices for Data Science and
@@ -99,15 +100,20 @@ process.
 - **Version Control:** SVN, GitHub, GitLab
 
 ## Certifications
+- [Intermediate SQL for Data Scientist](https://www.linkedin.com/learning/certificates/640968731749200b6bb9b34c0ca49286b2633b76c9981b7f704adb069b0cd348) - LinkedIn Learning, 2024
+- [Machine Learning, Stanford University](https://www.coursera.org/account/accomplishments/verify/HH2EN5JTX9MK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - Coursera certificate, 2024
 - [DevOps with AWS](https://www.linkedin.com/learning/certificates/9930c8bc240596b47bb6d9c31c1febf6cfc32a0ece37cf28339af9a769520b5b?trk=share_certificate) - LinkedIn Learning, 2023
 - [How to Research and Write Using Generative AI Tools](https://www.linkedin.com/learning/certificates/01c220117d3a5ae3aec30886e6f171ccc938d313ddb071ef2fd6fa68bd4e3604) - LinkedIn Learning, 2023
-- [Machine Learning, Stanford University](https://www.coursera.org/account/accomplishments/verify/HH2EN5JTX9MK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - Coursera certificate, 2024
 - [Test Automation with Python, Headspin University](https://www.linkedin.com/learning/certificates/283894dcb50fd1241f9a59ae2bda9e3ad329fe5cc31c091f0b8a7a98fde11f94?trk=share_certificate) - LinkedIn Learning, 2022
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/certificates/2ec501fd0774dd4b476d3a2a86904042da2add10bb20d1c6e5e94e1e9da52d77) - LinkedIn Learning, 2022
 - [Using Python for automation, Madecraft & Sam Pettus](https://www.linkedin.com/learning/certificates/66724abfab70a4df54373aaee340327058dc14d7ff82fb146425ee12f10d7295) - LinkedIn Learning, 2022
 - [Docker for Developers](https://www.linkedin.com/learning/certificates/10649c5d18b65a3a5e4e9308d38373410b15c4414a28f14c375f9a05f0b10f27?trk=share_certificate) - LinkedIn Learning, 2022
 - [Git Essential Training](https://www.linkedin.com/learning/certificates/ab7bcddccd8757631df63de2f2985582468268854e4ef643564276fb97688bc8?trk=share_certificate) - LinkedIn Learning, 2022
 - [Leading and Motivating People with Different Personalities](https://www.linkedin.com/learning/certificates/306cdd383f6e7d7914da898674e207091f42a4e205a8642bcf208691e312ac90?trk=share_certificate) - LinkedIn Learning, 2022
+
+## Conferences
+- Web Summit 2023, Lisbon, Portugal
+- Web Summit 2024, Lisbon, Portugal (planned)
 
 ## Languages
 - **English:** Excellent proficiency
