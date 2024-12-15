@@ -52,8 +52,7 @@ process.
   - Supporting the technical laboratories of the University
 
 ## PYPI.ORG
-- strip-notebook-metadata:
-  https://pypi.org/project/strip-notebook-metadata/
+- strip-notebook-metadata: [link](https://pypi.org/project/strip-notebook-metadata/)
 
 ## Technical Skills
 - **Programming Languages:** Python, Bash scripting
