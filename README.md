@@ -23,40 +23,12 @@ process.
   - Overseeing the end-to-end execution of data science projects
   - Offering strategic direction, valuable guidance, and personalized
     mentorship to foster the growth and development of the data
-    science team (7-8 members), ensuring their professional
+    science team, ensuring their professional
     advancement
-  - Collaborating with the Customer Success team to ensure
-    alignment on day-to-day processes
-  - Identifying the most efficient practices for Data Science and
-    Machine Learning
-  - Overseeing the hiring and training processes
-  - Developing automated processes through MongoDB streams,
-    integrated into the existing schema, significantly improving
-    operational efficiency (CI/CD)
-  - Conducting comprehensive unit testing to ensure the robustness
-    and reliability of new features
-  - Reviewing the team's pull requests daily to ensure the quality of
-    code and logic
 - **Senior Data Scientist (11/2022 - 05/2023)**
   - Leading development of AI/ML technologies that predict water pipe
     failures, enabling cities and countries worldwide to improve water
     network infrastructure
-  - Orchestrating the seamless transition of the codebase from SVN to
-    GIT, streamlining collaboration and version control management
-  - Restructuring and rewriting company pipelines using OOP
-    principles, improving code quality and maintainability
-  - Integrating Git Large File Storage (LFS) and Git Secret for efficient
-    handling of large files and sensitive information, respectively
-  - Implementing pre-commit hooks, linters, MLflow, and automated
-    testing frameworks, enhancing code quality and reducing
-    debugging time
-  - Leveraging AWS technologies to optimize data storage, processing,
-    and analysis
-  - Creating thorough documentation and helping move it from Google
-    Docs to Confluence, making it easier for everyone to find and share
-    knowledge
-  - Stabilizing the randomness in an ensemble ML model to ensure
-    consistent results can be reproduced
 - **Data Scientist (08/2020 - 10/2022)**
   - Completing analyses by collecting, tracking, analyzing, and
     documenting data and developing mathematical, statistical, and
@@ -113,7 +85,7 @@ process.
 
 ## Conferences
 - Web Summit 2023, Lisbon, Portugal
-- Web Summit 2024, Lisbon, Portugal (planned)
+- Web Summit 2024, Lisbon, Portugal
 
 ## Languages
 - **English:** Excellent proficiency
