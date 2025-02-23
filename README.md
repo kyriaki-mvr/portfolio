@@ -6,7 +6,7 @@ process.
 
 ## Contact Information
 - **Phone:** +30 6980581801
-- **Email:** [kiriakimaur@yahoo.gr](mailto:kiriakimaur@yahoo.gr)
+- **Email:** [kyriaki@quanterra.gr](mailto:kyriaki@quanterra.gr)
 - **LinkedIn:** [Kyriaki's LinkedIn](https://www.linkedin.com/in/kyriaki-mavropoulou-ds)
 - **Location:** Thessaloniki, Greece
 
